@@ -1,1 +1,1 @@
-web: java -jar complete/build/libs/accessing-data-rest-complete-0.0.1-SNAPSHOT.jar
+web: java -jar target/gs-accessing-data-rest-heroku-1.0-SNAPSHOT.jar
