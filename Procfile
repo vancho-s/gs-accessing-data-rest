@@ -1,0 +1,1 @@
+web: java -jar complete/build/libs/accessing-data-rest-complete-0.0.1-SNAPSHOT.jar
